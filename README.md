@@ -21,6 +21,6 @@ https://memory-game-react-uch2ha.netlify.app
 -   The game starts with all the cards face down. You need to find all duplicates of cards
 
 
-![Main Page](public/memory_game_1.jpg)
+![Main Page 1](public/memory_game_1.jpg)
 
 ![Main Page 2](public/memory_game_2.jpg)
